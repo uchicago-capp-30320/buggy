@@ -1,0 +1,11 @@
+[project]
+name = "buggy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "freezegun>=1.5.1",
+    "httpx>=0.28.1",
+    "pytest>=8.3.5",
+]
